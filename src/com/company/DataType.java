@@ -2,7 +2,7 @@
  6/16/20
 Pseudocode
 On the top of the screen type  import java.util.Scanner
-Create public class titled June16th
+Create public class titled DataType
 Create a public static void titled main
 Create your Scanner titled message and set it equal to new Scanner(System.in)
 paste the int, double, and string variable given to me in the directions
@@ -16,7 +16,7 @@ Create a System.out.println
  */
 package com.company;
 import java.util.Scanner;
-public class June16th {
+public class DataType {
 public static void main(String [] args) {
     Scanner message = new Scanner(System.in);
     int i = 4;
