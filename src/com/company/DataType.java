@@ -17,20 +17,20 @@ Create a System.out.println
 package com.company;
 import java.util.Scanner;
 public class DataType {
-public static void main(String [] args) {
-    Scanner message = new Scanner(System.in);
-    int i = 4;
-    double d = 4.0;
-    String s = "Greenhill";
-    System.out.println("Please enter a phrase");
-    String sTwo = message.nextLine();
-    System.out.println("Please enter a real number");
-    double dTwo = message.nextDouble();
-    System.out.println("Please enter an integer");
-    int iTwo = message.nextInt();
+    public static void main(String[] args) {
+        Scanner message = new Scanner(System.in);
+        int i = 4;
+        double d = 4.0;
+        String s = "Greenhill";
+        System.out.println("Please enter a phrase");
+        String sTwo = message.nextLine();
+        System.out.println("Please enter a real number");
+        double dTwo = message.nextDouble();
+        System.out.println("Please enter an integer");
+        int iTwo = message.nextInt();
 
-    System.out.println(i + iTwo);
-    System.out.println(d + dTwo);
-    System.out.println(s + sTwo);
-}
+        System.out.println(i + iTwo);
+        System.out.println(d + dTwo);
+        System.out.println(s + sTwo);
+    }
 }
