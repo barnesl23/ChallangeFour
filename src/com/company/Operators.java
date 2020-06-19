@@ -31,7 +31,6 @@ public class Operators {
         double tax = (price * taxPercent/100);
         double totalPrice = (price + tax + tip);
         System.out.println("Your total is " + Math.round(totalPrice));
-
     }
 
 }
