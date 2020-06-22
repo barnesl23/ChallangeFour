@@ -8,7 +8,7 @@ public class GangstaName{
         String teacher = "Lindsey Barnes";
         System.out.println();
         //sayHi(teacher);
-        Challange3V1.line();
+        Challenge_2.line();
     }
 
     public static void sayHi(String name) {

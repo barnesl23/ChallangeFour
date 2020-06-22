@@ -1,8 +1,5 @@
 package com.company;
-
-import apple.laf.JRSUIConstants;
-
-public class Challange3V1 {
+public class Challenge_2 {
 public static final int size=5;
     public static void main(String[] args) { //main
         //call all my functions
