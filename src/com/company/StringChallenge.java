@@ -5,7 +5,7 @@ Pseudocode
 Import scanner
 Within public static void main create the scanner and name it input by setting it equal to new Scanner(System.in)
 create integer T
-Create a String Word
+Create String Word
 Create a do while loop that asks the user how many words they want to process between 1-10
 put the integer T in and set it equal to the scanner allowing the user to input number or words
 make the while T>=2 or T<=10
